@@ -9,7 +9,7 @@ a font for developers that correctly displays Asian characters when mixed with L
 ## 一键安装
 
 ```
-wget -qO- https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12/master/install.sh | sudo sh
+wget -qO- https://raw.githubusercontent.com/qNwNp/YaHei-Consolas-Hybrid-1.12/master/install.sh | sudo sh
 ```
 
 ## 安装
@@ -39,4 +39,3 @@ sudo mkfontdir
 sudo fc-cache -fv
 # 建立字体缓存信息，也就是让系统认识该字体
 ```
-之后就可以在 IDE中使用该字体了.
